@@ -1,0 +1,62 @@
+{"data": [
+    {
+        "id": 1,
+        "name": "Hyundai Hb20",
+        "description": "1.6 Comfort Plus 16v Flex 4p Automatico",
+        "price": "R$ 53.990,00",
+        "image": [
+            "https://girodosmotores.com/wp-content/uploads/2022/05/novo-hyundai-hb20-podera-ser-baseado-na-tucson-2023-01-1024x584.jpg",
+            "https://www.deceroacien.com.mx/u/fotografias/m/2022/12/10/f960x540-13663_87738_0.jpg",
+            "https://fotos.perfil.com//2020/10/01/900/0/hyundai-hb20-1053230.jpg"
+        ],
+        "location":"Indaiatuba, SP",
+        "km":"102.867 km",
+        "year":"2015",
+        "certified":false
+    },
+    {
+        "id": 2,
+        "name": "Gol Trend",
+        "description": "1.6 Comfort Plus 16v Flex 4p Automatico",
+        "price": "R$ 40.990,00",
+        "image": [
+            "https://blog.karvi.com.ar/wp-content/uploads/2020/10/Gol-Trend-e1603305571158.jpg",
+            "https://cdn.motor1.com/images/mgl/RvkQr/s1/lanzamiento-volkswagen-gol-2016-ex-gol-trend.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKaEu8r0zcN15KDteVRebumnWSVIB-gkf_UZasIwUlPDhiXMbb_blRu-5uX4Ay0QXNQg&usqp=CAU"
+        ],
+        "location":"Indaiatuba, SP",
+        "km":"131.195 km",
+        "year":"2013",
+        "certified":false
+    },
+    {
+        "id": 3,
+        "name": "Peugeot 408",
+        "description": "1.6 Comfort Plus 16v Flex 4p Automatico",
+        "price": "R$ 73.990,00",
+        "image": [
+            "https://blog.karvi.com.ar/wp-content/uploads/2022/06/408new-e1656341714849.jpeg",
+            "https://cdn.shopify.com/s/files/1/0562/3001/9234/files/image1-2_b3db2e99-683f-464e-ac0d-d74d278c8f25.jpg?v=1660836133",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbGpWHsgR6p8RQbndwS0JSwZiIThxhB-kJBgMpMV2KXJVKkNf-cvM_0Xen7qOTjPD7vjQ&usqp=CAU"
+        ],
+        "location":"Indaiatuba, SP",
+        "km":"32.223 km",
+        "year":"2022",
+        "certified":false
+    },
+    {
+        "id": 4,
+        "name": "Chevrolet Onix",
+        "description": "1.6 Comfort Plus 16v Flex 4p Automatico",
+        "price": "R$ 60.990,00",
+        "image": [
+            "https://www.chevrolet.com.ar/content/dam/chevrolet/mercosur/argentina/espanol/index/cars/2020-onix-premier/colorizer/01-images/julio-20/3-onix-premier-red-e-or-notredmet-5.png?imwidth=960",
+            "https://www.chevrolet.com.pe/content/dam/chevrolet/south-america/peru/espanol/index/cars/2021-onix-sedan/2022-refresh/05-dise%C3%B1o/onix-sedan-diseno-3.jpg?imwidth=960",
+            "https://autotest.com.ar/wp-content/uploads/2020/11/CHEVROLET-ONIX-ALCE.jpg"
+        ],
+        "location":"Indaiatuba, SP",
+        "km":"25.867 km",
+        "year":"2020",
+        "certified":false
+    }
+]}
